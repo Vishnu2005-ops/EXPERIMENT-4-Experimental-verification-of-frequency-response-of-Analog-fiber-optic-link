@@ -41,34 +41,36 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-## BLOCK DIAGRAM
-
-*(Insert block diagram here)*
-
----
 
 ## CONNECTION DIAGRAM  
-**Setting up an Analog Link**
+-
+<img width="624" height="394" alt="image" src="https://github.com/user-attachments/assets/8c1b675a-29df-4757-b5e7-efd5282a107b" />
 
-*(Insert connection diagram here)*
 
 ---
 
 ## TABULATION  
-**Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+-
+<img width="432" height="424" alt="Screenshot 2025-11-17 202558" src="https://github.com/user-attachments/assets/637acb32-9ada-4041-850a-1672665fbad4" />
+
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+-
+<img width="837" height="367" alt="image" src="https://github.com/user-attachments/assets/3fa6751f-e76f-488b-b700-e1b3ead52c95" />
+
+
 
 ---
+## OUTPUT GRAPH
+-
+![WhatsApp Image 2025-11-17 at 20 58 11_debcf850](https://github.com/user-attachments/assets/59d5d0ac-2dcf-46d2-8726-fb32f71fdf5b)
+---
+
 
 ## RESULT
-
-*(Summarize observations and conclusions here)*
+-
+Thus, the frequency response of the analog fiber optic link was successfully studied, and the bandwidth was determined to be 75 kHz.
